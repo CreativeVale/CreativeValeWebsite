@@ -1,0 +1,1 @@
+$(".text").text(prompt("What is your name?"));
